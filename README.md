@@ -54,9 +54,13 @@ prediction=np.dot(np.append(1,new_Scaled),theta)
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
 ![Screenshot 2025-03-04 105812](https://github.com/user-attachments/assets/5df1fbb6-bbaf-4609-b920-97d600040b51)
+
+
 ![Screenshot 2025-03-04 105830](https://github.com/user-attachments/assets/9b50ebf3-fad4-4ba7-a4d2-65f5278d30cd)
+
+
 ![Screenshot 2025-03-04 105845](https://github.com/user-attachments/assets/17501a97-80ca-4674-9631-3a9f678185ff)
 
 
